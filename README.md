@@ -65,8 +65,14 @@ Crafty Controller is a cross platform minecraft server control platform that you
 #### [K3S](https://k3s.io/)
 Lightweight Kubernetes. Easy to install, half the memory, all in a binary of less than 100 MB.
 ##### K3S Services
+###### [Atlantis](https://runatlantis.io)
+Terraform Pull Request Automation
+
+🔑 Integrated with Authentik
+
 ###### [Omada software controller](https://github.com/mbentley/docker-omada-controller)
 Management interface and coordinator for Omada APs.
+
 ###### [Mealie](https://mealie.io/)
 Mealie is an intuitive and easy to use recipe management app. It's designed to make your life easier by being the best recipes management experience on the web and providing you with an easy to use interface to manage your growing collection of recipes.
 
