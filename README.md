@@ -3,8 +3,8 @@
 This repo exists as part of the bbl232/homelab-* series of repositories containing IaC and documentation for my homelab.
 
 This repo contains documentation for the homelab-* series of repositories. See also:
-- [homelab-k3s-base-services](https://github.com/bbl232/homelab-k3s-base-services)
-- [homelab-k3s-services](https://github.com/bbl232/homelab-k3s-services)
+- [homelab-atlantis-k3s-base-services](https://github.com/bbl232/homelab-atlantis-k3s-base-services)
+- [homelab-atlantis-k3s-services](https://github.com/bbl232/homelab-atlantis-k3s-services)
 
 ## Hardware
 ### Network
