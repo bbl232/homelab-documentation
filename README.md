@@ -1,4 +1,4 @@
-# My Homelab Repo
+# Homelab Documentation
 
 This repo exists as part of the billv-ca/homelab-* series of repositories containing IaC and documentation for my homelab.
 
@@ -20,7 +20,13 @@ This repo contains documentation for the homelab-* series of repositories. See a
 #### Router
 ##### [Pfsense](https://www.pfsense.org/)
 pfSense is a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more.
-(Running on old desktop hardware)
+
+- [HP Elitedesk 800 G4 Minis (35W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-35w-g4-desktop-mini-pc/21353727) - [Microcad.ca $116](https://www.microcad.ca/collections/refurbished-desktops)
+    - Intel® Core™ i5-8500T CPU @ 2.50GHz
+    - 8GB DDR4
+    - 512GB NVME
+    - 1Gbe on board - Used for AMT
+    - [2.5Gbe m.2 NIC](https://www.aliexpress.com/item/1005007273213520.html) - [3d model to add nic](https://www.thingiverse.com/thing:6899748)
 
 ### Compute
 - 2 x [HP Elitedesk 800 G3 Minis (35W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-35w-g3-desktop-mini-pc/15234602) - [Microcad.ca $94](https://www.microcad.ca/collections/refurbished-desktops)
@@ -32,7 +38,7 @@ pfSense is a free and open source firewall and router that also features unified
     - [2.5Gbe m.2 NIC](https://www.aliexpress.com/item/1005007273213520.html) - [3d model to add nic](https://www.thingiverse.com/thing:6899748)
 - 1x [HP Elitedesk 800 G3 Minis (65W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-65w-g3-desktop-mini-pc/15497277) - [Microcad.ca $94](https://www.microcad.ca/collections/refurbished-desktops)
     - Intel® Core™ i5-6500 CPU @ 3.20GHz
-    - 16GB DDR4
+    - 24GB DDR4
     - 256GB NVME
     - [1TB SATA III SSD](https://www.amazon.ca/dp/B09WMP5B5N)
     - 1Gbe on board - Used for AMT
