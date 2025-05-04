@@ -22,7 +22,7 @@ This repo contains documentation for the homelab-* series of repositories. See a
 pfSense is a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more.
 
 - [HP Elitedesk 800 G4 Minis (35W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-35w-g4-desktop-mini-pc/21353727) - [Microcad.ca $116](https://www.microcad.ca/collections/refurbished-desktops)
-    - Intel® Core™ i5-8500T CPU @ 2.50GHz
+    - Intel® Core™ i5-8500T CPU @ 2.10GHz
     - 8GB DDR4
     - 512GB NVME
     - 1Gbe on board - Used for AMT
