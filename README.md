@@ -25,7 +25,7 @@ pfSense is a free and open source firewall and router that also features unified
     - Intel® Core™ i5-8500T CPU @ 2.10GHz
     - 8GB DDR4
     - 512GB NVME
-    - 1Gbe on board - Used for AMT
+    - 1Gbe on board
     - [2.5Gbe m.2 NIC](https://www.aliexpress.com/item/1005007273213520.html) - [3d model to add nic](https://www.thingiverse.com/thing:6899748)
 
 ### Compute
