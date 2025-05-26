@@ -1,5 +1,11 @@
 # Homelab Documentation
 
+Welcome to the microLab!
+
+My goal is to have a homelab with critical services being highly available, important services being self-healing, and optional services mostly available, while maintaining a small footprint and low power consumption. Here's a photo of the current lab setup.
+
+![microLab](/microLab.jpg)
+
 This repo exists as part of the billv-ca/homelab-* series of repositories containing IaC and documentation for my homelab.
 
 This repo contains documentation for the homelab-* series of repositories. See also:
