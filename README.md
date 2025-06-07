@@ -27,22 +27,33 @@ This repo contains documentation for the homelab-* series of repositories. See a
 ##### [Pfsense](https://www.pfsense.org/)
 pfSense is a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more.
 
-- [HP Elitedesk 800 G4 Minis (35W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-35w-g4-desktop-mini-pc/21353727) - [Microcad.ca $116](https://www.microcad.ca/collections/refurbished-desktops)
-    - Intel® Core™ i5-8500T CPU @ 2.10GHz
+- [HP Elitedesk 800 G3 Minis (35W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-35w-g3-desktop-mini-pc/15234602) - [Microcad.ca $94](https://www.microcad.ca/collections/refurbished-desktops)
+    - Intel® Core™ i5-6500T CPU @ 2.50GHz
     - 8GB DDR4
     - 512GB NVME
     - 1Gbe on board
     - [2.5Gbe m.2 NIC](https://www.aliexpress.com/item/1005007273213520.html) - [3d model to add nic](https://www.thingiverse.com/thing:6899748)
 
 ### Compute
-- 2 x [HP Elitedesk 800 G3 Minis (35W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-35w-g3-desktop-mini-pc/15234602) - [Microcad.ca $94](https://www.microcad.ca/collections/refurbished-desktops)
+- [HP Elitedesk 800 G4 Mini (35W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-35w-g4-desktop-mini-pc/21353727) - [Microcad.ca $116](https://www.microcad.ca/collections/refurbished-desktops)
+    - Intel® Core™ i5-8500T CPU @ 2.10GHz
+    - 16GB DDR4
+    - 256GB NVME
+    - 1Gbe on board
+    - [m.2 -> oculink adapter](https://www.amazon.ca/dp/B0DP4PL4JW)
+    - [Minisforum DEG1 eGPU dock](https://www.amazon.ca/dp/B0DPGYKH7G)
+    - [ASUS AMD 7800XT](https://www.canadacomputers.com/en/powered-by-amd/250620/asus-dual-radeon-rx-7800-xt-oc-edition-16gb-gddr6-dual-rx7800xt-o16g.html)
+    - [FSP VITA 750W power supply](https://www.canadacomputers.com/en/power-supplies/253950/fsp-vita-750gm-80-gold-750-watt-atx-3-1-power-supply-vita-750gm.html)
+    - [2.5Gbe m.2 NIC](https://www.aliexpress.com/item/1005007273213520.html) - [3d model to add nic](https://www.thingiverse.com/thing:6899748)
+
+- 1 x [HP Elitedesk 800 G3 Mini (35W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-35w-g3-desktop-mini-pc/15234602) - [Microcad.ca $94](https://www.microcad.ca/collections/refurbished-desktops)
     - Intel® Core™ i5-6500T CPU @ 2.50GHz
     - 16GB DDR4
     - 256GB NVME
     - [1TB SATA III SSD](https://www.amazon.ca/dp/B09WMP5B5N)
     - 1Gbe on board - Used for AMT
     - [2.5Gbe m.2 NIC](https://www.aliexpress.com/item/1005007273213520.html) - [3d model to add nic](https://www.thingiverse.com/thing:6899748)
-- 1x [HP Elitedesk 800 G3 Minis (65W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-65w-g3-desktop-mini-pc/15497277) - [Microcad.ca $94](https://www.microcad.ca/collections/refurbished-desktops)
+- 1x [HP Elitedesk 800 G3 Mini (65W)](https://support.hp.com/lt-en/product/details/hp-elitedesk-800-65w-g3-desktop-mini-pc/15497277) - [Microcad.ca $94](https://www.microcad.ca/collections/refurbished-desktops)
     - Intel® Core™ i5-6500 CPU @ 3.20GHz
     - 24GB DDR4
     - 256GB NVME
