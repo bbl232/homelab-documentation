@@ -82,6 +82,8 @@ Open source home automation that puts local control and privacy first. Powered b
 - [Music Assistant](https://www.music-assistant.io/)
 - [Mosquitto](https://github.com/home-assistant/addons/tree/master/mosquitto)
 - [Zigbee2MQTT](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/tree/master/zigbee2mqtt)
+- [Piper](https://github.com/home-assistant/addons/blob/master/piper)
+- [Whisper](https://github.com/home-assistant/addons/blob/master/whisper)
 
 #### [Crafty Controller](https://craftycontrol.com/)
 Crafty Controller is a cross platform minecraft server control platform that you control from your web browser.
@@ -90,6 +92,17 @@ Lightweight Kubernetes. Easy to install, half the memory, all in a binary of les
 ##### K3S Services
 ###### [Atlantis](https://runatlantis.io)
 Terraform Pull Request Automation
+
+🔑 Integrated with Authentik
+
+###### [ROCm k8s-device-plugin](https://github.com/ROCm/k8s-device-plugin)
+A Kubernetes device plugin implementation that enables the registration of AMD GPU in a container cluster for compute workload. With the appropriate hardware and this plugin deployed in your Kubernetes cluster, you will be able to run jobs that require AMD GPU.
+
+###### [Ollama](https://ollama.com)
+Get up and running with large language models.
+
+###### [Open WebUI](https://openwebui.com/)
+Open WebUI is an extensible, self-hosted AI interface that adapts to your workflow, all while operating entirely offline.
 
 🔑 Integrated with Authentik
 
