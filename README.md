@@ -39,11 +39,6 @@ pfSense is a free and open source firewall and router that also features unified
 
 #### Network Diagram
 ```mermaid
----
-config:
-    look: handDrawn
-    theme: dark
----
 graph
     ONT[*ONT* 💿] --> ROUTER[*Pfsense* 💻↔️🌐]
     ROUTER --> MAINSWITCH[*TL-SG1016PE* 💻🔗💻]
