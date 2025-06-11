@@ -131,20 +131,19 @@ graph
 |Service|Category|Description|Authentik Integration|
 |-------|--------|-----------|---------------------|
 |Atlantis|IaC Deployment|[Atlantis](https://runatlantis.io) is Terraform Pull Request Automation.|✅|
-|ROCm k8s-device-plugin|System Plugin|[ROCm k8s-device-plugin](https://github.com/ROCm/k8s-device-plugin) enables AMD GPU registration in Kubernetes clusters.||
-|Ollama|AI|[Ollama](https://ollama.com) lets you run large language models locally.||
-|Open WebUI|AI|[Open WebUI](https://openwebui.com/) is an extensible, self-hosted AI interface that adapts to your workflow, all while operating entirely offline.|✅|
-|Omada Software Controller|Network|[Omada software controller](https://github.com/mbentley/docker-omada-controller) manages Omada APs.|
-|Mealie|Application|[Mealie](https://mealie.io/) is an intuitive recipe management app.|✅|
 |Authentik|Identity|[Authentik](https://goauthentik.io/) is a self-hosted, open-source identity provider.||
-|Longhorn|Storage|[Longhorn](https://longhorn.io/) provides cloud-native persistent block storage.|✅|
-|Pi-hole|Network|[Pi-hole](https://pi-hole.net/) offers network-wide ad protection.|✅|
-|MetalLB|Network|[MetalLB](https://metallb.io/) is a load-balancer for bare-metal Kubernetes.|
-|Kubernetes Dashboard|System Tools|[Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/) is a web-based Kubernetes UI.|✅|
 |Cert Manager|Network|[cert-manager](https://cert-manager.io/) is a powerful and extensible X.509 certificate controller for Kubernetes and OpenShift workloads. It will obtain certificates from a variety of Issuers, both popular public Issuers as well as private Issuers, and ensure the certificates are valid and up-to-date, and will attempt to renew certificates at a configured time before expiry.|
+|Kubernetes Dashboard|System Tools|[Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/) is a web-based Kubernetes UI.|✅|
+|Longhorn|Storage|[Longhorn](https://longhorn.io/) provides cloud-native persistent block storage.|✅|
+|Mealie|Recipe Storage|[Mealie](https://mealie.io/) is an intuitive recipe management app.|✅|
 |Meshcentral|System Tools|[Meshcentral](https://meshcentral.com/) is an open source, multi-platform, self-hosted, feature packed web site for remote device management with support for Intel AMT.|✅|
-|OCIS|Storage|Welcome to [oCIS](https://owncloud.dev/ocis/), the modern file-sync and share platform, which is based on our knowledge and experience with the PHP based ownCloud server.|✅|
-|Wireguard|Network|[Wireguard](https://www.wireguard.com/): fast, modern, secure VPN tunnel. WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.|
-|Wireguard UI|System Tools|[Wireguard UI](https://github.com/ngoduykhanh/wireguard-ui) is a web user interface to manage your WireGuard setup.|✅|
+|MetalLB|Network|[MetalLB](https://metallb.io/) is a load-balancer for bare-metal Kubernetes.|
+|OCIS|File Sync|Welcome to [oCIS](https://owncloud.dev/ocis/), the modern file-sync and share platform, which is based on our knowledge and experience with the PHP based ownCloud server.|✅|
+|Ollama|AI|[Ollama](https://ollama.com) lets you run large language models locally.||
+|Omada Software Controller|Network|[Omada software controller](https://github.com/mbentley/docker-omada-controller) manages Omada APs.|
+|Open WebUI|AI|[Open WebUI](https://openwebui.com/) is an extensible, self-hosted AI interface that adapts to your workflow, all while operating entirely offline.|✅|
+|Pi-hole|Network|[Pi-hole](https://pi-hole.net/) offers network-wide ad protection.|✅|
+|ROCm k8s-device-plugin|System Plugin|[ROCm k8s-device-plugin](https://github.com/ROCm/k8s-device-plugin) enables AMD GPU registration in Kubernetes clusters.||
 |Traefik|Network|[Traefik](https://traefik.io/traefik/) is a leading modern open source reverse proxy and ingress controller that makes deploying services and APIs easy. Traefik integrates with your existing ...|✅|
-
+|Wireguard UI|System Tools|[Wireguard UI](https://github.com/ngoduykhanh/wireguard-ui) is a web user interface to manage your WireGuard setup.|✅|
+|Wireguard|Network|[Wireguard](https://www.wireguard.com/): fast, modern, secure VPN tunnel. WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.|
