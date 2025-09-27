@@ -13,6 +13,10 @@ This repo contains documentation for the homelab-* series of repositories. See a
 - [homelab-atlantis-k3s-services](https://github.com/billv-ca/homelab-atlantis-k3s-services)
 
 ## ⚙️ Hardware
+### IoT Devices
+A plethora of different devices all integrated with HomeAssistant. Mostly TP-Link for smart switches and outlets.
+
+[Home Assistant Voice Preview Edition (x4)](https://www.home-assistant.io/voice-pe/)
 
 ### 🕸️ Network Infrastructure
 #### Switches
@@ -98,10 +102,14 @@ graph
 
 🔑 Integrated with [Authentik](https://goauthentik.io/)
 
+### rocm-wyoming-whisper
+[rocm-wyoming-whisper](https://github.com/fyhertz/rocm-wyoming-whisper) A docker image and a few lines of python to use OpenAI whisper with Rhasspy and/or Home Assistant on AMD GPUs with ROCm.
+
+Used with a HomeAssistant voice pipeline for insanely fast speech to text.
+
 #### Virtual Machines
 - Kubernetes
   - k3s-0
-  - k3s-1
   - k3s-2
 - OpenMediaVault
 - Home Assistant
@@ -139,9 +147,11 @@ graph
 |Meshcentral|System Tools|[Meshcentral](https://meshcentral.com/) is an open source, multi-platform, self-hosted, feature packed web site for remote device management with support for Intel AMT.|✅|
 |MetalLB|Network|[MetalLB](https://metallb.io/) is a load-balancer for bare-metal Kubernetes.|
 |OCIS|File Sync|Welcome to [oCIS](https://owncloud.dev/ocis/), the modern file-sync and share platform, which is based on our knowledge and experience with the PHP based ownCloud server.|✅|
+|OctoEverywhere|3d Printing|[OctoEverywhere](https://octoeverywhere.com): Cloud empower your OctoPrint, Klipper, or Bambu Lab 3D printer. Free & unlmited remote access, AI failure detection, print notifications, and more!||
 |Ollama|AI|[Ollama](https://ollama.com) lets you run large language models locally.||
 |Omada Software Controller|Network|[Omada software controller](https://github.com/mbentley/docker-omada-controller) manages Omada APs.|
 |Open WebUI|AI|[Open WebUI](https://openwebui.com/) is an extensible, self-hosted AI interface that adapts to your workflow, all while operating entirely offline.|✅|
+|Orca Slicer|3d Printing|[Orca Slicer](https://github.com/SoftFever/OrcaSlicer): an open source Next-Gen Slicing Software for Precision 3D Prints|✅|
 |Pi-hole|Network|[Pi-hole](https://pi-hole.net/) offers network-wide ad protection.|✅|
 |ROCm k8s-device-plugin|System Plugin|[ROCm k8s-device-plugin](https://github.com/ROCm/k8s-device-plugin) enables AMD GPU registration in Kubernetes clusters.||
 |Traefik|Network|[Traefik](https://traefik.io/traefik/) is a leading modern open source reverse proxy and ingress controller that makes deploying services and APIs easy. Traefik integrates with your existing ...|✅|
