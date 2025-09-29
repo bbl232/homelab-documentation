@@ -47,17 +47,19 @@ graph
     ONT[*ONT* 💿] --> ROUTER[*Pfsense* 💻↔️🌐]
     ROUTER --> MAINSWITCH[*TL-SG1016PE* 💻🔗💻]
     MAINSWITCH --> VLAN0[**LAN** 🌐✂️🖥️]
-    MAINSWITCH --> VLAN1[**Main** 📡🌐✂️🖥️]
     MAINSWITCH --> VLAN2[**IOT** 📡🌐✂️🖥️]
+    MAINSWITCH --> VLAN1[**Main** 📡🌐✂️🖥️]
+    MAINSWITCH --> VLAN4[**Guest** 📡🌐✂️🖥️]
     MAINSWITCH --> VLAN3[**Homelab** 🌐✂️🖥️]
-    VLAN1 --> AP[3 x *EAP-650* 🛜]
-    AP --> WLDEV[**Wireless Devices** 📡]
-    VLAN2 --> AP
     VLAN0 --> PCs[**PCs** ⌨️🖱️💻]
+    VLAN1 --> AP[3 x *EAP-650* 🛜]
+    AP -.-> WLDEV[**Wireless Devices** 📡]
+    VLAN4 --> AP
+    VLAN2 --> AP
     VLAN3 --> HLSW[*2.5G Switch* 💻🔗💻]
     HLSW --> PM[**Proxmox Nodes** 💻]
     VLAN3 --> ZIGBEE[**SMLIGHT SLZB-06** 🛜]
-    ZIGBEE --> ZBDEV[**Zigbee Devices** 📡]
+    ZIGBEE -.-> ZBDEV[**Zigbee Devices** 📡]
     VLAN2 --> NGSW[*Netgear GS105*]
     NGSW --> WSD[**Wired IoT Devices**]
 ```
