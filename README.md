@@ -158,3 +158,12 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 |Trilium|Notes|[Trilium](https://github.com/triliumnext) is an open-source knowledge base and note-taking application|✅|
 |Wireguard UI|System Tools|[Wireguard UI](https://github.com/ngoduykhanh/wireguard-ui) is a web user interface to manage your WireGuard setup.|✅|
 |Wireguard|Network|[Wireguard](https://www.wireguard.com/): fast, modern, secure VPN tunnel. WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.|
+
+## 3D print(er)s
+
+### 3D models used in my lab
+- [1U rackmount for HP Elitedesk G3 mini and newer (Thanks Spekkie3D)](https://www.printables.com/model/658936-1u-rackmount-for-hp-elitedesk-g3-mini-and-newer)
+- [elietedesk 800 g3 mini youyeetoo 2.5g nic i225v](https://www.thingiverse.com/thing:6899748)
+
+### 3D printer used in my lab
+- [Elegoo Centauri Carbon](ca.elegoo.com/products/centauri-carbon)
