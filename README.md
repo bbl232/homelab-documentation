@@ -168,4 +168,4 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 - [elietedesk 800 g3 mini youyeetoo 2.5g nic i225v](https://www.thingiverse.com/thing:6899748)
 
 ### 3D printer used in my lab
-- [Elegoo Centauri Carbon](ca.elegoo.com/products/centauri-carbon)
+- [Elegoo Centauri Carbon](https://ca.elegoo.com/products/centauri-carbon)
