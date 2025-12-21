@@ -143,6 +143,7 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 |Atlantis|IaC Deployment|[Atlantis](https://runatlantis.io) is Terraform Pull Request Automation.|✅|
 |Authentik|Identity|[Authentik](https://goauthentik.io/) is a self-hosted, open-source identity provider.||
 |Cert Manager|Network|[cert-manager](https://cert-manager.io/) is a powerful and extensible X.509 certificate controller for Kubernetes and OpenShift workloads. It will obtain certificates from a variety of Issuers, both popular public Issuers as well as private Issuers, and ensure the certificates are valid and up-to-date, and will attempt to renew certificates at a configured time before expiry.|
+|Grafana|Monitoring|With [Grafana](https://grafana.com/grafana/) you can create, explore, and share all of your data through beautiful, flexible dashboards.|✅|
 |Kubernetes Dashboard|System Tools|[Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/) is a web-based Kubernetes UI.|✅|
 |Longhorn|Storage|[Longhorn](https://longhorn.io/) provides cloud-native persistent block storage.|✅|
 |Mealie|Recipe Storage|[Mealie](https://mealie.io/) is an intuitive recipe management app.|✅|
@@ -155,6 +156,7 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 |Open WebUI|AI|[Open WebUI](https://openwebui.com/) is an extensible, self-hosted AI interface that adapts to your workflow, all while operating entirely offline.|✅|
 |Orca Slicer|3d Printing|[Orca Slicer](https://github.com/SoftFever/OrcaSlicer): an open source Next-Gen Slicing Software for Precision 3D Prints|✅|
 |Pi-hole|Network|[Pi-hole](https://pi-hole.net/) offers network-wide ad protection.|✅|
+|Prometheus|Monitoring|[Prometheus](https://prometheus.io/). Monitor your applications, systems, and services with the leading open source monitoring solution. Instrument, collect, store, and query your metrics for alerting, dashboarding, and other use cases.||
 |ROCm k8s-device-plugin|System Plugin|[ROCm k8s-device-plugin](https://github.com/ROCm/k8s-device-plugin) enables AMD GPU registration in Kubernetes clusters.||
 |Traefik|Network|[Traefik](https://traefik.io/traefik/) is a leading modern open source reverse proxy and ingress controller that makes deploying services and APIs easy. Traefik integrates with your existing ...|✅|
 |Trilium|Notes|[Trilium](https://github.com/triliumnext) is an open-source knowledge base and note-taking application|✅|
