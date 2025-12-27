@@ -150,7 +150,6 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 |Meshcentral|System Tools|[Meshcentral](https://meshcentral.com/) is an open source, multi-platform, self-hosted, feature packed web site for remote device management with support for Intel AMT.|✅|
 |MetalLB|Network|[MetalLB](https://metallb.io/) is a load-balancer for bare-metal Kubernetes.|
 |OCIS|File Sync|Welcome to [oCIS](https://owncloud.dev/ocis/), the modern file-sync and share platform, which is based on our knowledge and experience with the PHP based ownCloud server.|✅|
-|OctoEverywhere|3d Printing|[OctoEverywhere](https://octoeverywhere.com): Cloud empower your OctoPrint, Klipper, or Bambu Lab 3D printer. Free & unlmited remote access, AI failure detection, print notifications, and more!||
 |Ollama|AI|[Ollama](https://ollama.com) lets you run large language models locally.||
 |Omada Software Controller|Network|[Omada software controller](https://github.com/mbentley/docker-omada-controller) manages Omada APs.|
 |Open WebUI|AI|[Open WebUI](https://openwebui.com/) is an extensible, self-hosted AI interface that adapts to your workflow, all while operating entirely offline.|✅|
