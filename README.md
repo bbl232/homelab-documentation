@@ -113,12 +113,8 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 - Kubernetes
   - k3s-0
   - k3s-2
-- OpenMediaVault
 - Home Assistant
 - Crafty Controller
-
-### 📁 OpenMediaVault
-[OMV](https://www.openmediavault.org/) is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, RSync and many more ready to use. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in small offices or home offices, but is not limited to those scenarios. It is a simple and easy to use out-of-the-box solution that will allow everyone to install and administrate a Network Attached Storage without deeper knowledge.
 
 ### 🏠 Home Assistant
 [Home Assistant](https://www.home-assistant.io/) is open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts.
