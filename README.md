@@ -114,7 +114,6 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
   - k3s-0
   - k3s-2
 - Home Assistant
-- Crafty Controller
 
 ### 🏠 Home Assistant
 [Home Assistant](https://www.home-assistant.io/) is open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts.
@@ -127,9 +126,6 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 - [Piper](https://github.com/home-assistant/addons/blob/master/piper)
 - [Whisper](https://github.com/home-assistant/addons/blob/master/whisper)
 
-### 🧱 Crafty Controller
-[Crafty Controller](https://craftycontrol.com/) is a cross-platform Minecraft server control platform that you control from your web browser.
-
 ### 🐳 K3s Kubernetes
 [K3s](https://k3s.io/) is lightweight Kubernetes. Easy to install, half the memory, all in a binary of less than 100 MB.
 
@@ -139,6 +135,7 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 |Atlantis|IaC Deployment|[Atlantis](https://runatlantis.io) is Terraform Pull Request Automation.|✅|
 |Authentik|Identity|[Authentik](https://goauthentik.io/) is a self-hosted, open-source identity provider.||
 |Cert Manager|Network|[cert-manager](https://cert-manager.io/) is a powerful and extensible X.509 certificate controller for Kubernetes and OpenShift workloads. It will obtain certificates from a variety of Issuers, both popular public Issuers as well as private Issuers, and ensure the certificates are valid and up-to-date, and will attempt to renew certificates at a configured time before expiry.|
+|Crafty Controller|Games|[Crafty Controller](https://craftycontrol.com/) is a cross-platform Minecraft server control platform that you control from your web browser.|
 |Grafana|Monitoring|With [Grafana](https://grafana.com/grafana/) you can create, explore, and share all of your data through beautiful, flexible dashboards.|✅|
 |Headlamp|System Tools|[Headlamp](https://headlamp.dev/) is an easy-to-use and extensible Kubernetes web UI.|✅|
 |Longhorn|Storage|[Longhorn](https://longhorn.io/) provides cloud-native persistent block storage.|✅|
