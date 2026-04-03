@@ -128,7 +128,7 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 ### 🐳 K3s Kubernetes
 [K3s](https://k3s.io/) is lightweight Kubernetes. Easy to install, half the memory, all in a binary of less than 100 MB.
 
-- Nodes
+#### Kubernetes Nodes
   - VMs
     - k8s-0
   - Baremetal
