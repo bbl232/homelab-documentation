@@ -112,7 +112,6 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 #### Virtual Machines
 - Kubernetes
   - k3s-0
-  - k3s-2
 - Home Assistant
 
 ### 🏠 Home Assistant
@@ -128,6 +127,13 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 
 ### 🐳 K3s Kubernetes
 [K3s](https://k3s.io/) is lightweight Kubernetes. Easy to install, half the memory, all in a binary of less than 100 MB.
+
+- Nodes
+  - VMs
+    - k8s-0
+  - Baremetal
+    - node-1
+    - node-2
 
 #### 🌍 Kubernetes Services
 |Service|Category|Description|Authentik Integration|
