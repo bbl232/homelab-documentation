@@ -143,6 +143,7 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 |Authentik|Identity|[Authentik](https://goauthentik.io/) is a self-hosted, open-source identity provider.||
 |Cert Manager|Network|[cert-manager](https://cert-manager.io/) is a powerful and extensible X.509 certificate controller for Kubernetes and OpenShift workloads. It will obtain certificates from a variety of Issuers, both popular public Issuers as well as private Issuers, and ensure the certificates are valid and up-to-date, and will attempt to renew certificates at a configured time before expiry.|
 |Crafty Controller|Games|[Crafty Controller](https://craftycontrol.com/) is a cross-platform Minecraft server control platform that you control from your web browser.|
+|Falco|Security|[Falco](https://github.com/falcosecurity) is Container Native Runtime Security.|✅|
 |Grafana|Monitoring|With [Grafana](https://grafana.com/grafana/) you can create, explore, and share all of your data through beautiful, flexible dashboards.|✅|
 |Headlamp|System Tools|[Headlamp](https://headlamp.dev/) is an easy-to-use and extensible Kubernetes web UI.|✅|
 |Intel Device Plugins Operator|System Plugin|[Intel Device Plugins Operator](https://intel.github.io/intel-device-plugins-for-kubernetes/cmd/operator/README.html) is a Kubernetes custom controller whose goal is to serve the installation and lifecycle management of Intel device plugins for Kubernetes.||
