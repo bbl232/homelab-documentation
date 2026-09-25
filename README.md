@@ -25,7 +25,8 @@ A plethora of different devices all integrated with HomeAssistant. Mostly TP-Lin
 - [Netgear GS105](https://www.netgear.com/ca-en/business/wired/switches/unmanaged/gs105/)
 
 #### Access Points
-- 3x [TP-Link Omada EAP-650](https://www.amazon.ca/dp/B0B12R9CYH)
+- 3x [TP-Link Omada EAP650](https://www.amazon.ca/dp/B0B12R9CYH)
+- 1x [TP-Link Omada EAP610-Outdoor](https://www.amazon.ca/TP-Link-Business-AX1800-Outdoor-EAP610-Outdoor/dp/B0B231J81C)
 
 #### Zigbee
 - [SMLIGHT SLZB-06](https://aliexpress.com/item/1005004942648430.html)
