@@ -162,6 +162,7 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 |Pi-hole|Network|[Pi-hole](https://pi-hole.net/) offers network-wide ad protection.|✅|
 |Prometheus|Monitoring|[Prometheus](https://prometheus.io/). Monitor your applications, systems, and services with the leading open source monitoring solution. Instrument, collect, store, and query your metrics for alerting, dashboarding, and other use cases.||
 |ROCm k8s-device-plugin|System Plugin|[ROCm k8s-device-plugin](https://github.com/ROCm/k8s-device-plugin) enables AMD GPU registration in Kubernetes clusters.||
+|System Upgrade Controller|System Upgrades|[System Upgrade Controller](https://github.com/rancher/system-upgrade-controller) aims to provide a general-purpose, Kubernetes-native upgrade controller (for nodes).||
 |Traefik|Network|[Traefik](https://traefik.io/traefik/) is a leading modern open source reverse proxy and ingress controller that makes deploying services and APIs easy. Traefik integrates with your existing ...|✅|
 |Trilium|Notes|[Trilium](https://github.com/triliumnext) is an open-source knowledge base and note-taking application|✅|
 |Wireguard UI|System Tools|[Wireguard UI](https://github.com/ngoduykhanh/wireguard-ui) is a web user interface to manage your WireGuard setup.|✅|
